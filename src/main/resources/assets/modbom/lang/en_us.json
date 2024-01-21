@@ -1,0 +1,12 @@
+﻿{
+  "item.modbom.raw_zaza": "Raw zaza",
+  "item.modbom.zaza": "Zaza",
+  
+  "block.modbom.zaza_block": "Zaza block",
+  "block.modbom.zaza_ore": "Zaza ore",
+  "block.modbom.deepslate_zaza_ore": "Deepslate zaza ore",
+  "block.modbom.endstone_zaza_ore": "Endstone zaza ore",
+  "block.modbom.netherrack_zaza_ore": "Netherrack zaza ore",
+  
+  "itemGroup.modbom": "Mod bom"
+}

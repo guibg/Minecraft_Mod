@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+        "#": {
+        "item": "modbom:zaza"
+        }
+  },
+  "result": {
+    "item": "modbom:zaza_block"
+  }
+}

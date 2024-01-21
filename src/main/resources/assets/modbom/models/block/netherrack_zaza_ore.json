@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "modbom:block/netherrack_zaza_ore"
+  }
+}

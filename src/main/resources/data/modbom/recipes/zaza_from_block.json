@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modbom:zaza_block"
+    }
+  ],
+  "result": {
+    "item": "modbom:zaza",
+    "count": 9
+  }
+}
